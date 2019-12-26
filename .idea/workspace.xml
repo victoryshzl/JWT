@@ -98,6 +98,7 @@
       <updated>1575943371276</updated>
       <workItem from="1575943376994" duration="9802000" />
       <workItem from="1575965734203" duration="156000" />
+      <workItem from="1576208255617" duration="793000" />
     </task>
     <task id="LOCAL-00001" summary="springboot security整合jwt案例">
       <created>1575960756963</created>
@@ -121,6 +122,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1575944108672" />
+    <state x="363" y="80" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576208288857">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="80" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1576208288857" />
     <state x="102" y="0" key="CommitChangelistDialog2" timestamp="1575960753920">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -165,9 +170,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="175" y="32" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1575960819581" />
-    <state x="0" y="34" width="1366" height="694" key="new project wizard" timestamp="1575965888179">
+    <state x="0" y="34" width="1366" height="694" key="new project wizard" timestamp="1576217318007">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="34" width="1366" height="694" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1575965888179" />
+    <state x="0" y="34" width="1366" height="694" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1576217318007" />
   </component>
 </project>
